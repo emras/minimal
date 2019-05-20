@@ -1,7 +1,7 @@
 # minimal
 
 A simple react web app for creating and reading messages.
-
+![alt text](./client/public/Minimal.png)
 ## Overview
 
 update 'dbRoute' in the server.js file with your MongoDB connection string [URI](https://docs.mongodb.com/v3.2/reference/connection-string/)
