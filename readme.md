@@ -2,7 +2,7 @@
 
 A simple react web app for creating and reading messages.
 
-##dependencies
+## dependencies
 * [Nodejs](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/)
@@ -11,7 +11,7 @@ A simple react web app for creating and reading messages.
 * [FontAwesome](https://github.com/FortAwesome/react-fontawesome)
 * [Highcharts](https://github.com/highcharts/highcharts-react)
 
-##deployment
+## deployment
 
 update 'dbRoute' in the server.js file with your MongoDB connection string [URI](https://docs.mongodb.com/v3.2/reference/connection-string/)
 
